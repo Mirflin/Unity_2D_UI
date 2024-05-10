@@ -22,11 +22,15 @@ public class ShowTextScript : MonoBehaviour
     string text;
     public GameObject inputField;
     public GameObject displayField;
+    string[] words = { "Sveiki", "Jauku dienu", "Labrit", "Prieks Tevi redzet" };
+    int randnum;
 
     public void getText()
     {
+        randnum = Random.Range(0,words.Length);
         text = inputField.GetComponent<Text>().text;
-        displayField.GetComponent<Text>().text = "Text: "+text.ToLower()+" ...";
+        displayField.GetComponent<Text>().text = words[randnum] +text.ToLower()+" ...";
+
     }
 
 }
