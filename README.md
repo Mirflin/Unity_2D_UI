@@ -2,10 +2,10 @@
 Unity 2D project, for UI elements demonstration
 
 ### Work progress
-- [ ] Project starting point
-- [ ] Project folder creation
-- [ ] InputField and Textm button element creation
-- [ ] First c# script
+- [x] Project starting point
+- [x] Project folder creation
+- [x] InputField and Textm button element creation
+- [x] First c# script
 - [ ] Image and Toggle element
 - [ ] Panel and Toggle group
 - [ ] DropDown and Slider element
