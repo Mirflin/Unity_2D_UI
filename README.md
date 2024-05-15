@@ -9,9 +9,9 @@ Unity 2D project, for UI elements demonstration
 - [X] Image and Toggle element
 - [X] Panel and Toggle group
 - [X] DropDown and Slider element
-- [ ] DragAndDrop functionality
+- [X] DragAndDrop functionality
 - [X] AudioSource and ScrollView elements
-- [ ] Rigibody and Colider components
+- [X] Rigibody and Colider components
 
       
 ![Mr. bean](https://th.bing.com/th/id/OIP.Z2_5btI6r--zidbP0gH-MQHaKL?rs=1&pid=ImgDetMain)
