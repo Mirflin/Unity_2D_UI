@@ -29,7 +29,7 @@ public class ShowTextScript : MonoBehaviour
     {
         randnum = Random.Range(0,words.Length);
         text = inputField.GetComponent<Text>().text;
-        displayField.GetComponent<Text>().text = words[randnum] +text.ToLower()+" ...";
+        displayField.GetComponent<Text>().text = words[randnum] +" "+text.ToLower()+" ...";
 
     }
 

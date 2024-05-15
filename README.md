@@ -2,12 +2,12 @@
 Unity 2D project, for UI elements demonstration
 
 ### Work progress
-- [ ] Project starting point
-- [ ] Project folder creation
-- [ ] InputField and Textm button element creation
-- [ ] First c# script
-- [ ] Image and Toggle element
-- [ ] Panel and Toggle group
+- [X] Project starting point
+- [X] Project folder creation
+- [X] InputField and Textm button element creation
+- [X] First c# script
+- [X] Image and Toggle element
+- [X] Panel and Toggle group
 - [ ] DropDown and Slider element
 - [ ] AudioSource and ScrollView elements
 - [ ] Rigibody and Colider components
