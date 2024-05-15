@@ -4280,6 +4280,7 @@ GameObject:
   - component: {fileID: 1348070647}
   - component: {fileID: 1348070646}
   - component: {fileID: 1348070645}
+  - component: {fileID: 1348070648}
   m_Layer: 5
   m_Name: ImageHolder
   m_TagString: Untagged
@@ -4344,6 +4345,19 @@ RectTransform:
   m_AnchoredPosition: {x: 355.98, y: 68}
   m_SizeDelta: {x: 150, y: 150}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1348070648
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1348070644}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 626c88897e76be74c8f50bd590ae11be, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  canv: {fileID: 1985959048}
 --- !u!1 &1387882361
 GameObject:
   m_ObjectHideFlags: 0
