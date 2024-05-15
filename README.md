@@ -8,8 +8,9 @@ Unity 2D project, for UI elements demonstration
 - [X] First c# script
 - [X] Image and Toggle element
 - [X] Panel and Toggle group
-- [ ] DropDown and Slider element
-- [ ] AudioSource and ScrollView elements
+- [X] DropDown and Slider element
+- [ ] DragAndDrop functionality
+- [X] AudioSource and ScrollView elements
 - [ ] Rigibody and Colider components
 
       
